@@ -52,7 +52,7 @@ Nuestro fanático podrá compartir información del film y exponer su crítica, 
 
 
 <p align="center">
-<img src="img/Ficha Usuario.png">
+<img src="img/FichaUsuario.png">
 </p>
 
 
