@@ -138,9 +138,15 @@ Próximamente de acuerdo a dichos problemas se ajustaran las correcciones necesa
 
 ## Planificación
 
-Fuimos grupo de 3 participantes. Sprim de 3 días
+Fuimos grupo de 3 participantes:
+Paulina Vera Pavez: (FE, trabajó en la maquetación y CSS)
+Ana Paula Monsalve: (FE, trabajó en javascript parte funcional de la pagina)
+Martha Lizarazo: (UX, Investigación, Radme, prototipo testeado, )
+
+Sprim de 3 días
 Asignamos tareas únicas a cada uno, las tareas fueron dadas por horas diariamente.
 Herramienta usada:  Pizarra.
+
 
 <p align="center">
 <img src="img/plan1.png">
